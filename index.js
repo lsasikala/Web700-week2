@@ -10,3 +10,18 @@ console.hello = function() {
 }
 console.log(console);
 console.hello();
+
+
+var add = function(a,b)
+{
+    return a = b
+}
+
+function arithmatic(fn, a, b)
+{
+    return fn(a,b)
+}
+
+var r = arithmatic(add,10,20)
+
+console.log(r)
