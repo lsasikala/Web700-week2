@@ -17,5 +17,3 @@ console.log(a)
 
 console.log(a.length)
 
-
-VAR B = NEW Array('A','B,'C')
